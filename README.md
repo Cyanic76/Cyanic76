@@ -1,16 +1,21 @@
-### Hi there 👋
+### This is Cyanic.
 
-<!--
-**Cyanic76/Cyanic76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+![Stats](https://github.com/Cyanic76/github-stats/blob/main/generated/overview.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hello, this is Cyanic. I'm a web developer and a future programmer.
+
+🌱 I'm currently learning the Java language.
+💬 Feel free to ask me about anything related to development, programming.
+
+### Get in touch
+
+**E-Mail or Mails:** Go to [my personal website](https://is.gd/cyanic) then click on the "Get in Touch" tab, fill and send the form.
+
+Discord: **Cyanic#5445** (I'm not planning to start my own server... yet)
+
+### Recently
+
+- I've created a [website](https://cyanic76.github.io/click-challenge) based on a joke between me and some friends.
+- I'm working on a [modmail for discord.js bots](https://github.com/Cyanic76/discord-modmail).
