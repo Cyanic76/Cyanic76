@@ -4,9 +4,10 @@ Welcome to my GitHub profile!
 
 ![Stats](https://github.com/Cyanic76/github-stats/blob/main/generated/overview.svg)
 
-👋 Hello, this is Cyanic. I'm a web developer and a future programmer.
+👋 Hello, this is Cyanic. I'm a web developer and maybe a future programmer.
 
 🌱 I'm currently learning the Java language.
+
 💬 Feel free to ask me about anything related to development, programming.
 
 ### Get in touch
