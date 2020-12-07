@@ -18,5 +18,6 @@ Discord: **Cyanic#5445** (I'm not planning to start my own server... yet)
 
 ### Recently
 
+- I made my [CLI File Explorer](https://github.com/Cyanic76/cli-file-explorer) open-source!
 - I've created a [website](https://cyanic76.github.io/click-challenge) based on a joke between me and some friends.
 - I'm working on a [modmail for discord.js bots](https://github.com/Cyanic76/discord-modmail).
