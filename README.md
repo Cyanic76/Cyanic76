@@ -4,6 +4,8 @@ Welcome to my GitHub profile!
 
 ![Stats](https://github.com/Cyanic76/github-stats/blob/main/generated/overview.svg)
 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyanic76&theme=dark&langs_count=8&layout=demo)
+
 👋 Hello, this is Cyanic. I'm a web developer and maybe a future programmer.
 
 🌱 I'm currently learning the Java language.
