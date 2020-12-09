@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-![Stats](https://github.com/Cyanic76/github-stats/blob/main/generated/overview.svg)
+![Stats](https://github-readme-stats.vercel.app/api?username=Cyanic76&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Hi](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyanic76&theme=dark&langs_count=8&layout=demo)
 
