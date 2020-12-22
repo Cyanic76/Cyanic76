@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile!
 
+Just so you know, I've [opened my Discord server](https://cyanic.glitch.me/discord/)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=Cyanic76&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Hi](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyanic76&theme=dark&langs_count=8&layout=demo)
@@ -16,7 +18,7 @@ Welcome to my GitHub profile!
 
 **E-Mail or Mails:** Go to [my personal website](https://is.gd/cyanic) then click on the "Get in Touch" tab, fill and send the form.
 
-Discord: **Cyanic#5445** (I'm not planning to start my own server... yet)
+Discord: [Join my server](https://cyanic.glitch.me/discord).
 
 ### Recently
 
