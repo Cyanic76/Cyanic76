@@ -19,9 +19,13 @@ Welcome to my GitHub profile!
 
 ### Recently
 
-- I made my [CLI File Explorer](https://github.com/Cyanic76/cli-file-explorer) open-source!
-- I've created a [website](https://cyanic76.github.io/click-challenge) based on a joke between me and some friends.
-- I'm working on a [modmail for discord.js bots](https://github.com/Cyanic76/discord-modmail).
+Recent repos:
+
+![Click Challenge](https://github-readme-stats.vercel.app/api/pin/?username=Cyanic76&repo=click-challenge&theme=dark&show_owner=false)
+
+![Discord.JS Modmail](https://github-readme-stats.vercel.app/api/pin/?username=Cyanic76&repo=discord-modmail&theme=dark&show_owner=false)
+
+![Discord.JS hello](https://github-readme-stats.vercel.app/api/pin/?username=Cyanic76&repo=discord-hello&theme=dark&show_owner=false)
 
 Here is an overview of my GitHub statistics!
 
