@@ -14,9 +14,8 @@ Welcome to my GitHub profile!
 
 ### Get in touch
 
-**E-Mail or Mails:** Go to [my personal website](https://is.gd/cyanic) then click on the "Get in Touch" tab, fill and send the form.
-
-Discord: [Join my server](https://cyanic.glitch.me/discord).
+- **Discord: [Join my server](https://cyanic.glitch.me/discord). (new)**
+- Mails: [Click here](https://cyanic.glitch.me/iframe-src/getintouch.html).
 
 ### Recently
 
