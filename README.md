@@ -30,5 +30,3 @@ Recent repos:
 Something new will be released today, so keep an eye on my repos!
 
 Here is an overview of my GitHub statistics!
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=Cyanic76&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://cyanic.glitch.me)
