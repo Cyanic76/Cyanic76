@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 👋 Hello, this is Cyanic. I'm a web developer and maybe a future programmer.
 
-🌱 I'm currently learning the Python language.
+🌱 I'm currently developing a [homepage](https://github.com/Cyanic76/home.cyanic.tk) and a [new Discord bot](https://cyanic.tk/layers).
 
 💬 Feel free to ask me about anything related to development, programming.
 
@@ -21,12 +21,12 @@ Welcome to my GitHub profile!
 
 Recent repos:
 
-[![Click Challenge](https://github-readme-stats.vercel.app/api/pin/?username=Cyanic76&repo=click-challenge&theme=dark&show_owner=false)](https://github.com/Cyanic76/click-challenge)
+[![Homepage](https://github-readme-stats.vercel.app/api/pin/?username=Cyanic76&repo=home.cyanic.tk&theme=dark&show_owner=false)](https://github.com/Cyanic76/home.cyanic.tk)
 
 [![Discord.JS Modmail](https://github-readme-stats.vercel.app/api/pin/?username=Cyanic76&repo=discord-modmail&theme=dark&show_owner=false)](https://github.com/Cyanic76/discord-modmail)
 
-[![Discord.JS hello](https://github-readme-stats.vercel.app/api/pin/?username=Cyanic76&repo=discord-hello&theme=dark&show_owner=false)](https://github.com/Cyanic76/discord-hello)
+[![Click Challenge](https://github-readme-stats.vercel.app/api/pin/?username=Cyanic76&repo=click-challenge&theme=dark&show_owner=false)](https://github.com/Cyanic76/click-challenge)
 
-Something new will be released today, so keep an eye on my repos!
+### Want to support me?
 
-Here is an overview of my GitHub statistics!
+Like what I do? [Support my work!](https://paypal.me/cyanic76)
