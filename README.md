@@ -28,3 +28,5 @@ a self-taught website, JavaScript & Batch developer.
 [![Homepage](https://github-readme-stats.vercel.app/api/pin/?username=Cyanic76&repo=home.cyanic.tk&theme=dark&show_owner=false)](https://github.com/Cyanic76/home.cyanic.tk)
 [![Discord.JS Modmail](https://github-readme-stats.vercel.app/api/pin/?username=Cyanic76&repo=discord-modmail&theme=dark&show_owner=false)](https://github.com/Cyanic76/discord-modmail)
 [![Click Challenge](https://github-readme-stats.vercel.app/api/pin/?username=Cyanic76&repo=click-challenge&theme=dark&show_owner=false)](https://github.com/Cyanic76/click-challenge)
+
+*Have you tried `Up, Up, Down, Down, Left, Right, Left, Right, B, A` ?*
