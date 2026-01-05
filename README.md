@@ -1,8 +1,13 @@
-I **moved** to [**Codeberg**](https://codeberg.org/Cyanic76).
+### Profile update
+
+I **moved** to [**Codeberg**](https://codeberg.org/Cyanic76). I have archived all my GitHub repositories as well.
+
+See you on Codeberg!
+
+---
 
 <div align="center">
   <h1>Hello, this is <a href="https://cyanic.me">Cyanic76</a>! 👋</h1>
-  I write things, sometimes. I maintain websites, write scripts in JavaScript, write scripts to automate things in Python with cron jobs.
   
   ---
   
